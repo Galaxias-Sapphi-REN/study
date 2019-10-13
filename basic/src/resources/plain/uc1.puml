@@ -1,0 +1,25 @@
+@startuml
+left to right direction
+
+skinparam packageStyle rectangle
+
+actor customer
+actor clerk
+rectangle checkout {
+  customer -- (checkout)
+  (checkout) .> (payment) : include
+  (help) .> (checkout) : extends
+  (checkout) -- clerk
+}
+
+note right of customer : No money.
+
+note right of (clerk)
+lets play some
+DOTA
+end note
+
+note "person" as N2
+(customer) .. N2
+N2 .. (clerk)
+@enduml

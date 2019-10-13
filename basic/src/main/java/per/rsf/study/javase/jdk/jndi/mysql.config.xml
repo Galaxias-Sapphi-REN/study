@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datasources>
+    <local-tx-datasource>
+        <jndi-name>MySqlDataSource</jndi-name>
+        <connection-url>jdbc:mysql://localhost:3306//mysql?useUnicode=true&amp;characterEncoding=utf-8</connection-url>
+        <driver-class>com.mysql.jdbc.Driver</driver-class>
+        <user-name>root</user-name>
+        <password>1234</password>
+    </local-tx-datasource>
+</datasources>

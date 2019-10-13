@@ -1,0 +1,9 @@
+《深入理解Java虚拟机》
+《Java并发编程的艺术》
+
+Java内存模型的时候别再给我讲堆栈方法区
+https://mp.weixin.qq.com/s/uTmc-dLwPG_t0SMZGKMfQg
+Java内存模型
+https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650121599&idx=1&sn=42b2cfabfb3057ac6c09026a8b9656cd&chksm=f36bb85ec41c31489e461a53e78f2959f0224c87c312724f420265b70e67e4efdae2331155aa&scene=21#wechat_redirect
+JVM内存结构 VS Java内存模型 VS Java对象模型
+https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650121579&idx=1&sn=373fb812e6ff056b2e5b41cc46968cc9&chksm=f36bb84ac41c315cb7c3e9d7e99b68bee7b2ac2dc8a6ed7e4a5829c5f2434ffa08e9eb14d40f&scene=21#wechat_redirect

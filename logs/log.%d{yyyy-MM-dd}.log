@@ -1,0 +1,9 @@
+[2019-10-13 20:48:39.540] [main] INFO  per.study.guava.GuavaCacheDemo : cache remove : 0|[] for cause : SIZE
+[2019-10-13 20:48:39.543] [main] INFO  per.study.guava.GuavaCacheDemo : cache remove : 1|[] for cause : SIZE
+[2019-10-13 20:48:39.543] [main] INFO  per.study.guava.GuavaCacheDemo : cache remove : 2|[] for cause : SIZE
+[2019-10-13 20:48:39.543] [main] INFO  per.study.guava.GuavaCacheDemo : cache remove : 3|[] for cause : SIZE
+[2019-10-13 20:48:39.543] [main] INFO  per.study.guava.GuavaCacheDemo : cache remove : 4|[] for cause : SIZE
+[2019-10-13 20:48:39.553] [main] INFO  per.study.guava.GuavaCacheDemo : cache key [1] miss! new Value from load! 
+[2019-10-13 20:48:39.556] [main] INFO  per.study.guava.GuavaCacheDemo : cache remove : 5|[] for cause : SIZE
+[2019-10-13 20:48:39.557] [main] INFO  per.study.guava.GuavaCacheDemo : find key [1] : []
+[2019-10-13 20:48:39.557] [main] INFO  per.study.guava.GuavaCacheDemo : find key [14] : []
